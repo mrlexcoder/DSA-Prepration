@@ -1,0 +1,5 @@
+{
+  "name": "JavaLeed - NextGen Online Compiler",
+  "description": "A high-performance, LeetCode-inspired Java online editor and compiler powered by Gemini for intelligent code simulation and feedback.",
+  "requestFramePermissions": []
+}
